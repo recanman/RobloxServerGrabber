@@ -1,0 +1,21 @@
+{
+  "name": "robloxservergrabber",
+  "version": "1.0.0",
+  "description": "A proof of concept ExpressJS app that grabs Roblox server IP addresses.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recanman/RobloxServerGrabber.git"
+  },
+  "author": "recanman",
+  "bugs": {
+    "url": "https://github.com/recanman/RobloxServerGrabber/issues"
+  },
+  "homepage": "https://github.com/recanman/RobloxServerGrabber#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "keywords": ["javascript", "api", "express", "js", "proof-of-concept", "roblox", "axios"]
+}
