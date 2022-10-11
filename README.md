@@ -48,12 +48,12 @@ Example Response:
 ```json
 {
     "servers": [{
-        "ip": "[REDACTED]",
+        "ip": "ip.v4.add.res",
         "port": 58908,
         "ping": 42,
         "playing": 6,
         "maxPlayers": 8,
-        "gameId": "[REDACTED]"
+        "gameId": "uuid-here"
     }],
     "thumbnailUrl": "https://tr.rbxcdn.com/b717c50234c3d91b0be7dbfc9c588ed4/512/512/Image/Png"
 }
